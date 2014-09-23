@@ -1,0 +1,416 @@
+/* Localized versions of Info.plist keys */
+"UsernameError" = "Connect to server failed. If you have changed your password, please login again.";
+
+"welcomeLeft" = "Welcome to uSav";
+"welcomeTheme" = "uSav";
+"welcomeContinue" = "Continue";
+
+"iHaveUsav" = "I already have a uSav account";
+"iDontHaveUsav" = "I don't have a uSav account";
+"createUsavAccount" = "Create your uSav account";
+"welcomeBack" = "Go Back";
+
+"SetPermissionFailed" = "Network error or you have no right to edit permission";
+
+"registerEmail" = "Email Address:";
+"registerEmailReEnter" = "Verify Email Address:";
+"registerPassword" = "Password:";
+"registerPasswordReEnter" = "Verify Password:";
+
+"SetPermissionSuccess" = "Set Permission Succeeded!   uSav will not send your file, you need to do it yourself to share files to friends";
+
+"loginEmail" = "Email:";
+"loginPassword" = "Password:";
+"loginLeft" = "Login into uSav";
+"AddFriendailed" = "Friend name invalid, Please input as an email address";
+
+"InvalidConfirmPassword" = "Passwords entered are not identical";
+"InvalidPassword" = "Password should contain both letters and digits, range from 8-49";
+"InvalidConfirmEmail" = "Email entered are not identical";
+"InvalidEmailAddress" = "Email address invalid";
+
+"StartLogin" = "Waiting for server...";
+"StartRegistration" = "Waiting for server...";
+
+"Login" = "Login";
+"RegisterSuccessItem" = "One step left!";
+
+"QuitUsav" = "Quit uSav";
+
+"QuitUsav" = "Quit uSav";
+"OpenWorkingWindow" = "Main window";
+"LogOut" = "Log out";
+"Setting" = "Setting";
+"UsavSetup" = "uSav setup";
+"UsavWorkingWindow" = "uSav 1.0";
+"UsavPasswordRecoverLink" = "www.google.com";
+"ForgetPasswrod" = "Forgot password?";
+"IHavRead" = "I have read and agree to the";
+"TermOfService" = "Terms of Service.";
+
+"DiffFileType" = "Input files contain both .usav and normal files.";
+
+"UnmatchFileType" = "Inputed file type should be identical to the previous files";
+
+"btnCancel" = "Cancel";
+"btnDecrypt" = "Decrypt";
+"btnDelete" = "Delete";
+"btnEditPermission" = "Edit Permission";
+"btnEncrypt" = "Encrypt";
+"btnHistory" = "History";
+"ErrorNoKey" = "Network error, can not get encryption key";
+
+"PermissionDenied" = "Permission denied or Network error";
+
+"Notification" = "Notification";
+"LaterKey" = "Later";
+
+"versionNumber" = "100";
+"LanguageCode" = "en-us";
+"KeyLogSwitch" = "Opt";
+
+"OptLogSwitch" = "Audit";
+"ProcessBarAddFriend" = "Add friend";
+
+"EditNoteFault" = "Edit note failed";
+"EditAliasFault" = "Edit alias failed";
+"RenameGroupFault" = "Rename group failed";
+
+"ContactChangeAliasKey" = "Edit alias";
+"ContactChangeNotesKey" = "Edit Alias";
+"ContactDeleteKey" = "Delete";
+"ContactAddToGroupKey" = "Add to group";
+
+"InvalidOldEmail" = "Old email address invalid";
+"InvalidNewEmail" = "Email address invalid";
+"InvalidEmail" = "Email address invalid";
+"AutoLockLabel" = "Auto Lock";
+"RetypePassword" = "Retype email";
+"InvalidConfirmEmail" = "Emails entered are not identical";
+"WrongOldEmail" = "Old email address not equal to the original setting";
+
+"InvalidOldPass" = "Password must contain letters and digits, range from 8-49";
+"InvalidNewPass" = "Password must contain letters and digits, range from 8-49";
+
+"InvalidConfirmPass" = "Passwords entered are not identical";
+"InvalidConfirmEmail" = "Email entered are not identical";
+
+"InvalidUserNam00000e" = "User name length range from 5-99";
+"InvalidPass" = "Password should contain both letters and digits, range from 8-49";
+
+"InvalidQuestion" = "Question length range from 10-99";
+"InvalidAnswer" = "Anwser length range from 5-49";
+
+"InvalidGroup" = "Group name length range from 1-49";
+
+"EnterFriendAlias" = "Enter alias for friend";
+"EnterFriendAliasPlaceHolder" = "1 - 30 letters and digits";
+
+"EnterFriendNote" = "Enter note for friend";
+"EnterFriendNotePlaceHolder" = "1 - 30 letters and digits";
+
+"EnterGroupName" = "Enter group name";
+"EnterGroupNamePlaceHolder" = "1 - 49 letters and digits";
+"AddGroupWithNameKey" = "Add group confirmation";
+"AddTrustContactUnknownErrorKey" = "Please input a valid email address";
+"EmailInUse" = "Email already registered";
+
+"AddGroupFault" = "Add group failed";
+"AddFriendFault" = "Add friend failed";
+
+"CancelKey" = "Cancel";
+"OkKey" = "Ok";
+"DoneKey" = "Done";
+"BackKey" = "Back";
+"YesKey" = "Yes";
+"NoKey" = "No";
+"SelectActionKey" = "Select action";
+"ExitGameKey" = "Exit Game";
+"SelectCorrectAnswerKey" = "Select correct answer";
+"SubmitKey" = "Submit";
+"appTitleKey" = "uSav";
+"LogoutKey" = "Logout";
+"LoginKey" = "Login";
+"AreYouSureKey" = "Are you sure?";
+
+// Home page
+"GuidedEncryptShareKey" = "Guided Encrypt & Share";
+"GuidedDecryptViewKey" = "Guided Decrypt & View";
+"ExpertModeKey" = "Expert Mode";
+
+// Login/Register page
+"LoginColonKey" = "Login:";
+"RegisterKey" = "Submit";
+"RegisterColonKey" = "Register:";
+"AlreadyLoginKey" = "You are already login";
+"LoginSucceededKey" = "Login succeeded";
+"LoginFailedKey" = "Login failed, please try again";
+"LoginCancelledKey" = "Login cancelled";
+"UserNameTakenKey" = "Username has been taken, please try again";
+"UserNameNotFoundKey" = "Username not found, please try again";
+"PasswordIncorrectKey" = "Password incorrect, please try again";
+"Use6orMoreCharsKey" = "Please use 5 or more chars in username & password";
+"UserNamePlaceholderKey" = "Username, 5-99 letters or digits";
+
+"PasswordPlaceholderKey" = "Password, 8-49";
+"PasswordPlaceholderKey2" = "Letters and digits, 8-49";
+
+"RetypePwPlaceholderKey" = "Retype password";
+"EmailPlaceholderKey" = "Email";
+"RetypeEmailPlaceholderKey" = "Retype Email";
+"SecurityQuestionPlaceholderKey" = "Security Question";
+"SecurityAnswerPlaceholderKey" = "Security Answer";
+"DisplayPasswordLabelKey" = "Display";
+"SaveUsernameLabelKey" = "Save login info";
+"AutologinLabelKey" = "Auto login next time";
+"AskToRegiserBtnKey" = "Create New Account";
+
+"GoBackToLoginBtnKey" = "Go back to login";
+"RegisterSuccessKey" = "Registration completed. Please check your email box and activate your account";
+"RegisterTimestampOldKey" = "Registration time stamp too far behind";
+"RegisterTimestampFutureKey" = "Registration time stamp too far ahead";
+"RegisterInvalidAccIdKey" = "Registration account ID invalid";
+"UserNameTakenKey" = "Registration user name already taken";
+"RegisterUnsecurePasswordKey" = "Registration password too weak";
+"RegisterInvalidEmailKey" = "Registration email address invalid";
+"RegisterEmailInUseKey" = "Registration email address already in use";
+"RegisterUnknownStatusCodeKey" = "Registration failed, please change a name and try again";
+"GetAccountInfoSuccessKey" = "GetAccountInfo succeeded";
+"GetAccountInfoFailKey" = "Username or password incorrect";
+
+"EditPermissionSuccessKey" = "Edit Permission Success";
+"EditPermissionSuccessMsg" = "";
+"EditPermissionFailedKey" = "Edit Permission Failed";
+"EditPermissionFailedMsg" = "";
+"EditPermissionTitleBar" = "Edit Permission";
+"EditPermissionFileName" = "File name";
+"GetOperationLog" = "Get Operation Log";
+"ProcessBarFreshFileList" = "Refresh";
+
+"GetKeyLog" = "Get Access Log";
+"PasscodeLock" = "Lock after";
+"FilePreviewKey" = "Preview";
+
+"LogViewOperationLogTitle" = "File Audit";
+"LogViewKeyLogTitle" = "Operation Log";
+"LogViewSwitch" = "Switch";
+
+"ProfileOldPassPlaceHolder" = "Enter Old Password";
+"ProfileNewPassPlaceHolder" = "8 to 49 characters and digits";
+"ProfileVerifyPassPlaceHolder" = "Re-enter new password";
+
+"ProfileNewEmailPlaceHolder" = "Enter new name";
+"ProfileVerifyEmailPlaceHolder" = "Re-enter new email";
+
+"ProfileUserName" = "User Name";
+"ProfileEmail" = "Email";
+"ProfilePassword" = "Password";
+"EditPasswordSuccess" = "Edit password success";
+"EditPasswordFailed" = "Edit password failed, old password incorrect";
+"EditEmailSuccess" = "Edit email success";
+"EditEmailFailed" = "Edit email failed";
+"GuidedEditPermissionFriendText" = "Enter friend name seperated by white-space";
+"GuidedEditPermissionGroupText" = "Enter group name seperated by white-space";
+
+"ProcessBarGetAuditLog" = "Get Audit Log";
+
+// Guided Encrypt File & Share
+"EncryptFileTitleKey" = "Encrypt";
+
+"QuickEncryptFolder" = "From:Inbox To:Encrypted";
+"QuickDecryptFolder" = "From:Inbox To:Decrypted";
+
+"FileAlreadyEncryptedKey" = "File already encrypted";
+
+// Guided Decrypt File
+"DecryptFileTitleKey" = "Decrypt";
+"FileAlreadyDecryptedKey" = "File already decrypted";
+
+// File Operations
+"FileHomeTitleKey" = "Home";
+"FileTitleKey" = "Encrypt File";
+"EncryptedFile" = "Encrypted";
+"DecryptedFile" = "Decrypted";
+"InboxFile" = "Inbox";
+
+"FileEncryptedTitleKey" = "File (Encrypted)";
+"FileDecryptedTitleKey" = "File (Decrypted)";
+"FolderBackButtonKey" = "Back";
+"FileEncryptKey" = "Encrypt";
+"FileDecryptKey" = "Decrypt";
+"FileTransferKey" = "Transfer";
+"FileEmailKey" = "Email";
+"FileEditPermissionKey" = "Sharing";
+"ProcessBarLogin" = "Login";
+"ProcessBarGetContact" = "Get contact list";
+"ProcessBarGetLog" = "Get Logs";
+"ProcessBarEncrypt" = "Encrypting";
+"ProcessBarDecrypt" = "Decrypting";
+"ProcessBarPermissionList" = "Get Permission List";
+"ProcessBarContactList" = "Get Contact List";
+"ProcessBarDelete" = "Deleting";
+
+"ProcessBarEditEmail" = "Edit Email";
+"ProcessBarEditPassword" = "Edit Password";
+
+"FileAlreadyEncryptedKey" = "File already encrypted, choose another file without an USAV extension";
+"FileEncryptPathCreateFailedKey" = "Failed to create the Encrypt directory, please restart app and try again";
+"FileDecryptPathCreateFailedKey" = "Failed to create the Decrypt directory, please restart app and try again";
+"FileEncryptionFailedKey" = "File encryption failed";
+"FileEncryptionSucceedKey" = "File encryption succeeded";
+"FileEncryptionInvalidKeySizeKey" = "File encryption failed, invalid key size";
+"FileEncryptionKeyNotFoundKey" = "File decryption failed, permission denied or key not found";
+"FileDecryptionFailedKey" = "File decryption failed";
+"FileDecryptionSucceedKey" = "File decryption succeeded";
+"FileDeleteDirectoryNotAllowedKey" = "Directory can't be deleted";
+"GetKeyIdFromFileFailedKey" = "Get KeyId from file failed";
+
+// Contact
+"FailedToListGroupKey" = "Fail to list group";
+"ContactHomeTitleKey" = "Contact";
+"SelectActionKey" = "Action";
+"AddGroupKey" = "Add Group";
+"AddContactKey" = "Add Contact";
+"AddMemberKey" = "Add Member";
+"GoUpOneGroupKey" = "Back to Home";
+"DeleteContactKey" = "Delete Contact";
+"SelectAllContactKey" = "Select All Contacts";
+"SelectAllMemberKey" = "Select All Members";
+"EnterNewContactMsgKey" = "Enter name of a registered user";
+"EnterNewGroupMsgKey" = "Enter new group";
+"GroupNameUnknownErrorKey" = "Add group failed, please try again";
+"GroupNameInvalidKey" = "Invalid group name, please use another name";
+"GroupNameAlreadyExistKey" = "Group name already used, please use another name";
+"ContactAddContactTitleKey" = "Add Contact";
+"DeleteItemMsgKey" = "Check item(s) to delete; only empty group can be deleted";
+"GroupNameNotFoundKey" = "Group name not found";
+"ContactNameNotFoundKey" = "Contact name not found";
+"DeleteTrustContactUnknownErrorKey" = "Delete Contact failed";
+"RemoveGroupUnknownErrorKey" = "Remove Group failed";
+"GroupMemberNotExistKey" = "Group member does not exist";
+"AddMemberToGroupSuccessKey" = "Successfully added member to group";
+
+"UserNotExist" = "User does not exist, system will send invite";
+"AliasNameInvalidKey" = "Alias name is invalid";
+"EmailNameInvalidKey" = "Email name is invalid";
+"NoteInvalidKey" = "Note is invalid";
+"AddGroupMsgKey" = "Add Group";
+"InfoQuickEncrypt" = "Click file to encrypt";
+"InfoQuickSetPermission" = "";
+"InfoQuickDecrypt" = "Click file to decrypt";
+"InfoFullFeature" = "File opened by uSav is stored in 'Inbox'";
+
+"UnsupportedPreviewFile" = "Unsupported File Type";
+
+"Permission Denied" = "Permission Denied";
+"AddContactWithNameKey" = "Add contact";
+"QuickEncrypt" = "Encrypt & Share";
+"QuickDecrypt" = "Decrypt & View";
+"FullFeature" = "Advanced Mode";
+"AddContactMsgKey" = "Add contact";
+
+
+
+"FileDeleteKeyUnknownErrorKey" = "Unsupported file or Permission denied";
+"Timeout" = "Network too slow or error occurs";
+"FriendNameAlreadyExistKey" = "Friend already exist";
+"AddContactToGroupTitleKey" = "Add Group Member";
+"UserAddedSuccuss" = "Add friend succeeded";
+
+"NoGroupInContactList" = "No group in contact list";
+"RegisterEmail" = "Email address, example@usav.com";
+"DisabledUser" = "Please activate this account in your email";
+"EmailExisted" = "Email address already used";
+"AddSelf" = "Can not add self as a friend";
+
+"TimeStampError" = "Network Error or system time incorrect.If you have chagned password, please log out then login again";
+"TimeStampError_Registration" = "Network Error or system time incorrect.";
+
+"TabHome" = "Home";
+"TabBarFile" = "File";
+"TabBarContact" = "Contact";
+"TabBarHistory" = "History";
+"TabBarProfile" = "Profile";
+
+"Check Member" = "Check Member";
+"Rename Group" = "Rename Group";
+"Delete Group" = "Delete Group";
+
+"ProfileLabel" = "Profile";
+"SecurityLabel" = "Security";
+"HelpLabel" = "Help";
+"FeedbackLabel" = "Feedback";
+
+"PassCodeLockLabel" = "Passcode Lock";
+"IntroductioinLabel" = "Introduction";
+"WriteToService" = "Write to customer service";
+
+"Where to get photo?" = "Where to get photo?";
+"Cancel" = "Cancel";
+"Camera" = "Camera";
+"Photo Album" = "Photo Album";
+"ViewAndExport" = "View/Export";
+"Owner" = "Owner";
+"Created at" = "Created at";
+"Size" = "Size";
+
+"ShareBar" = "Share";
+"InstructionOne" = "Please add users to the share list;";
+"InstructionTwo" = "system will send invite email to new users";
+"ContactListBtnLabel" = "Or from uSav contact list";
+
+"ShareBar" = "Share";
+"InstructionOne" = "Please add users to the share list;";
+"InstructionTwo" = "system will send invite email to new users";
+
+"ContactListBtnLabel" = "Or from uSav contact list";
+"DecryptFolderDes" = "Files that have been decrypted";
+"EncryptFolderDes" = "Files that have been encrypted";
+"InboxFolderDes" = "Files imported from other apps";
+"FileDesLabel" = "Files:%d";
+
+"ContactListLabel" = "Contact List";
+"DoneLabel" = "Done";
+"Selecting" = "By select from contact list";
+"SendBtn" = "Send";
+"ExportLabel" = "Export";
+
+"OldPassLabel" = "Old Password";
+"NewPassLabel" = "New Password";
+"ConfirmPassLabel" = "Confirm Password";
+"EditPassLabel" = "Edit Password";
+"ConfirmLabel" = "Confirm";
+
+"Turn Passcode Off" = "Turn Passcode Off";
+"Turn Passcode On" = "Turn Passcode On";
+"Change Passcode" = "Change Passcode";
+"Passcode Lock" = "Passcode Lock";
+"SentByEmailLabel" = "%@ has sent an encrypted file to you, it is in the attachment. If you haven't installed or register with uSav, please go to this link: http://www.nwstor.com";
+"Never" = "Never";
+"1  Minute" ="1  Minute";
+"2  Minutes" ="2  Minutes";
+"3  Minutes" ="3  Minutes";
+"4  Minutes" ="4  Minutes";
+"5  Minutes" ="5  Minutes";
+"10 Minutes" ="10 Minutes";
+"15 Minutes" ="15 Minutes";
+"Always" ="Always";
+"Encrypt photo" = "Encrypt photo";
+"Please enter a name:" = "Please enter a name:";
+"TabBarContact" = "Contact";
+"TabBarHistory" = "History";
+"TabBarProfile" = "Profile";
+"Register Account" = "Register Account";
+"RegistrationSuccess" = "Success! Please activating your account in your email.";
+
+"PasscodeIncorrect" = "You have entered an incorrect passcode too many times. Please login again.";
+"HistoryAuditLog" = "Audit Log";
+
+"IncompleteFile" = "There is an incomplete .usav-temp file.Please delete it then encrypt/decrypt original file again by no interruption for the process.";
+"SendByEmail" = "Send via email";
+
+"ListGroupMember" = "List Group Member";
+"FailedToListGroupMemberKey" = "Failed To List Group Member, Please try again";
+"ProcessBarEditAlias" = "Edit Alias";
+"ProcessBarEditGroupName" = "Edit Group Name";
+"ProcessBarRegister" = "Register";
